@@ -8,6 +8,7 @@ dependencies = [
     "graphviz>=0.21",
     "imblearn>=0.0",
     "ipykernel>=7.0.1",
+    "lime>=0.2.0.1",
     "matplotlib>=3.10.7",
     "optuna>=4.5.0",
     "optuna-integration>=4.5.0",
